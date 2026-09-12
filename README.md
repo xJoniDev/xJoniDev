@@ -4,9 +4,9 @@ I'm Jonathan — a 15 y.o. developer and tech enthusiast who enjoys building thi
 ##
 ## 🛠️ My Skills: ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bash,linux,mint,git,github,discord,arduino,windows)
 ##
-## 🚀 Currently Learning
+## 🚀 Currently Learning:
 ##  🐍 Python
 ##  🐧 Linux & Open Source
 ##
-## 📫 Connect With Me:
+## 📫 Contact me:
 ##  📧 Email: xjonidev@gmail.com
